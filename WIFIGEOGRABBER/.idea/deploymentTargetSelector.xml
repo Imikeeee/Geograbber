@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="GeoGrabber">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-11-01T16:09:51.198568Z">
+        <DropdownSelection timestamp="2025-11-01T18:17:16.474237900Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=ad18b881" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\644aa\.android\avd\Medium_Phone.avd" />
             </handle>
           </Target>
         </DropdownSelection>

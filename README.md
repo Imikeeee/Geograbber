@@ -39,7 +39,7 @@
 ⚠️ **Python Integration Notice (v1.0.5)**
 
 - ✅ On Linux, databases can currently be loaded and visualized.  
-- ⚠️ Passphrase unlocking is buggy: correct passphrases may be rejected.  
+- ⚠️ In Python Tools Passphrase unlocking is buggy: correct passphrases may be rejected.  (Android works fine)
 - ⚠️ On Windows, sqlcypher and passphrase issues still persist.  
 
 > Additional development is required to implement full SQLCipher support and reliable key handling.
